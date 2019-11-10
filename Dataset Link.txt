@@ -1,0 +1,5 @@
+Link for the dataset
+
+https://www.kaggle.com/rhammell/planesnet
+or
+https://drive.google.com/drive/folders/1xUpZ5ZHbagzTjNHrGgsRz4ciJXfkKqZ8?usp=sharing
